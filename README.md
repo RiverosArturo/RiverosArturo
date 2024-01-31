@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack developer jr from México</h3>
+<h1 align="center">Fullstack developer jr</h3>
 
 <h3 align="left">Experience:</h3>
 
