@@ -13,10 +13,8 @@
 - Application fro creating events in a calendar (ReactJs)
   - WebUrl: [CalendarMERN](https://mern-calendar-wbpb.onrender.com) 
   - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
- 
--  Test Pokemon api (NextJs + Typescript)
-  - Code: [Onivia](https://github.com/RiverosArturo/juegoOnivia)
-  - Gameplay: [Onivia](https://youtu.be/FNv7Cncjkrc?si=yn1F9VoXaVl8DzGg)
+
+- Test Pokemon api (NextJs + Typescript)
   -  WebUrl: [PokemonApi](https://next-poke-app-eight.vercel.app/)
   - Code: [PokemonApi](https://github.com/RiverosArturo/next-pokeApp)
 
