@@ -1,13 +1,18 @@
-<h1 align="center">Arturo Riveros</h1>
-<h3 align="center">Fullstack jr developer from México</h3>
+<h1 align="center">Fullstack jr developer from México</h3>
 
-- Landing page, for Hotel Danini. [HotelDanini](https://github.com/RiverosArturo/HotelDanini)
+- Landing page, for Hotel Danini.
+  - [WebUrl: HotelDanini](https://hoteldanini.com)  
+  - [Code: HotelDanini](https://github.com/RiverosArturo/HotelDanini)
 
-- Store based on tesla shop. [TesloShop](https://github.com/RiverosArturo/teslo-shop)
+- Store based on tesla shop.
+  - WebUrl: [TesloShop](https://teslo-shop-five-bice.vercel.app/) 
+  - Code: [TesloShop](https://github.com/RiverosArturo/teslo-shop)
 
-- Application fro creating events in a calendar. [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
+- Application fro creating events in a calendar.
+  - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
 
-- Onivia game developed when I was a university student. [Onivia](https://github.com/RiverosArturo/juegoOnivia)
+- Onivia game developed when I was a university student.
+  - Code: [Onivia](https://github.com/RiverosArturo/juegoOnivia)
 
 - 📫 How to reach me **riveros45arturo@gmail.com**
 
