@@ -14,7 +14,7 @@
   - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
  
 -  Test Pokemon api (NextJs + Typescript)
-  - WebUrl: [PokemonApi](https://next-poke-app-eight.vercel.app/)
+  -  WebUrl: [PokemonApi](https://next-poke-app-eight.vercel.app/)
   - Code: [PokemonApi](https://github.com/RiverosArturo/next-pokeApp)
 
 - Onivia game developed when I was a university student (PhaserJs).
