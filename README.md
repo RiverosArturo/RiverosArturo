@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack jr developer from México</h3>
+<h1 align="center">Fullstack developer jr from México</h3>
 
 - Landing page for Hotel Danini (ReactJs + Typescript).
   - WebUrl: [HotelDanini](https://hoteldanini.com)  
