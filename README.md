@@ -15,6 +15,8 @@
   - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
  
 -  Test Pokemon api (NextJs + Typescript)
+  - Code: [Onivia](https://github.com/RiverosArturo/juegoOnivia)
+  - Gameplay: [Onivia](https://youtu.be/FNv7Cncjkrc?si=yn1F9VoXaVl8DzGg)
   -  WebUrl: [PokemonApi](https://next-poke-app-eight.vercel.app/)
   - Code: [PokemonApi](https://github.com/RiverosArturo/next-pokeApp)
 
