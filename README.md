@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack developer jr</h3>
+<h1 align="center">Fullstack web developer jr</h3>
 
 <h3 align="left">Experience:</h3>
 
