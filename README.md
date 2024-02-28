@@ -18,7 +18,7 @@
   - Code: [Onivia](https://github.com/RiverosArturo/juegoOnivia)
   - Gameplay: [Onivia](https://youtu.be/FNv7Cncjkrc?si=yn1F9VoXaVl8DzGg)
 
- - Application from creating events in a calendar (ReactJs + Express)
+- Application from creating events in a calendar (ReactJs + Express)
   - WebUrl: [CalendarMERN](https://mern-calendar-wbpb.onrender.com) 
   - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
 
