@@ -6,21 +6,21 @@
   - WebUrl: [HotelDanini](https://hoteldanini.com)  
   - Code: [HotelDanini](https://github.com/RiverosArturo/HotelDanini)
 
-- Store based on tesla shop (NextJs + Typescript)
+- Store based on tesla shop (NextJs + Typescript + NodeJs + MongoDb)
   - WebUrl: [TesloShop](https://teslo-shop-five-bice.vercel.app/) 
   - Code: [TesloShop](https://github.com/RiverosArturo/teslo-shop)
 
-- Application fro creating events in a calendar (ReactJs)
-  - WebUrl: [CalendarMERN](https://mern-calendar-wbpb.onrender.com) 
-  - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
-
-- Test Pokemon api (NextJs + Typescript)
+- Test Pokemon api (NextJs + Typescript )
   -  WebUrl: [PokemonApi](https://next-poke-app-eight.vercel.app/)
   - Code: [PokemonApi](https://github.com/RiverosArturo/next-pokeApp)
 
 - Onivia game developed when I was a university student (PhaserJs)
   - Code: [Onivia](https://github.com/RiverosArturo/juegoOnivia)
   - Gameplay: [Onivia](https://youtu.be/FNv7Cncjkrc?si=yn1F9VoXaVl8DzGg)
+
+ - Application from creating events in a calendar (ReactJs + Express)
+  - WebUrl: [CalendarMERN](https://mern-calendar-wbpb.onrender.com) 
+  - Code: [CalendarMERN](https://github.com/RiverosArturo/calendarMERN)
 
 - 📫 How to reach me **riveros45arturo@gmail.com**
 
