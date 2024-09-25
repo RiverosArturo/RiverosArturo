@@ -4,7 +4,6 @@
 
 - Landing page for Hotel Danini (ReactJs + Typescript)
   - WebUrl: [HotelDanini](https://hoteldanini.com)  
-  - Code: [HotelDanini](https://github.com/RiverosArturo/HotelDanini)
 
 - Landing page for Santa Fé Casa Club (NextJs + Typescript + NodeJs)
   - WebUrl: [SantaFeCasaClub](https://santafecasaclub.com/)
