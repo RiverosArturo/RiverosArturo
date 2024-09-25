@@ -6,6 +6,9 @@
   - WebUrl: [HotelDanini](https://hoteldanini.com)  
   - Code: [HotelDanini](https://github.com/RiverosArturo/HotelDanini)
 
+- Landing page for Santa Fé Casa Club (NextJs + Typescript + NodeJs)
+  - WebUrl: [SantaFeCasaClub](https://santafecasaclub.com/)
+
 - Store based on tesla shop (NextJs + Typescript + NodeJs + MongoDb)
   - WebUrl: [TesloShop](https://teslo-shop-five-bice.vercel.app/) 
   - Code: [TesloShop](https://github.com/RiverosArturo/teslo-shop)
